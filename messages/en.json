@@ -19,6 +19,14 @@
       "quality": "VERA Solutions"
     }
   },
+  "Metadata": {
+    "title": "Vera Nurses - Health Services",
+    "description": "Professional home health and nursing services.",
+    "og": {
+      "title": "Vera Nurses",
+      "description": "Professional Health Services"
+    }
+  },
   "Footer": {
     "brandDesc": "Your trusted solution partner in professional health and home care services. We are by your side 24/7.",
     "quickLinks": "Quick Links",

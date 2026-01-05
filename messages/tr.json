@@ -19,6 +19,14 @@
       "quality": "VERA Çözümleri"
     }
   },
+  "Metadata": {
+    "title": "Vera Nurses - Sağlık Hizmetleri",
+    "description": "Profesyonel evde sağlık ve hemşirelik hizmetleri.",
+    "og": {
+      "title": "Vera Nurses",
+      "description": "Profesyonel Sağlık Hizmetleri"
+    }
+  },
   "Footer": {
     "brandDesc": "Profesyonel sağlık ve evde bakım hizmetlerinde güvenilir çözüm ortağınız. 7/24 yanınızdayız.",
     "quickLinks": "Hızlı Erişim",

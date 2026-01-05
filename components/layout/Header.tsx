@@ -51,8 +51,7 @@ export default function Header() {
           </div>
           <div className="flex flex-col">
             <span className="text-2xl font-bold text-[#8E1B20] leading-none tracking-tight">
-              VERA
-              <span className="text-slate-900"> Nurses</span>
+              VERA Nurses
             </span>
           </div>
         </Link>

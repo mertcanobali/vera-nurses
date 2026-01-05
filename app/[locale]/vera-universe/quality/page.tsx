@@ -6,6 +6,47 @@ type Props = {
   params: Promise<{ locale: string }>;
 };
 
+import { Metadata } from "next";
+import { getTranslations } from "next-intl/server";
+
+export async function generateMetadata({
+  params,
+}: Omit<Props, "children">): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations("SolutionsPage");
+  const title = t("heroTitle");
+  const description = t("heroSubtitle");
+  const BASE_URL = process.env.NEXT_PUBLIC_APP_URL || "https://veranurses.com";
+
+  return {
+    title: `${title} | Vera Nurses`,
+    description,
+    metadataBase: new URL(BASE_URL),
+    alternates: {
+      canonical: `${BASE_URL}/${locale}/vera-universe/quality`,
+      languages: {
+        tr: `${BASE_URL}/tr/vera-universe/quality`,
+        en: `${BASE_URL}/en/vera-universe/quality`,
+      },
+    },
+    openGraph: {
+      title,
+      description,
+      url: `${BASE_URL}/${locale}/vera-universe/quality`,
+      images: [`${BASE_URL}/AviceRNA_Logo.png`],
+      siteName: "Vera Nurses",
+      type: "website",
+    },
+    twitter: {
+      card: "summary_large_image",
+      site: process.env.NEXT_PUBLIC_TWITTER_HANDLE || "@VeraNurses",
+      title,
+      description,
+      images: [`${BASE_URL}/AviceRNA_Logo.png`],
+    },
+  };
+}
+
 export default function QualityPage({ params }: Props) {
   const t = useTranslations("SolutionsPage");
 
