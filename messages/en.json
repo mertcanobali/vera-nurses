@@ -101,32 +101,63 @@
   "AppointmentSection": {
     "title": "Take the First Step for Your Health",
     "description": "Fill out the form and select the service you need. Our expert teams will get back to you as soon as possible.",
-    "form": {
-      "nameLabel": "Full Name",
-      "namePlaceholder": "Ex: John Doe",
-      "phoneLabel": "Phone Number",
-      "phonePlaceholder": "05XX XXX XX XX",
-      "serviceLabel": "Service Needed",
-      "servicePlaceholder": "Select Service...",
-      "messageLabel": "Your Message / Note",
-      "messagePlaceholder": "You can write any additional notes here...",
-      "submitButton": "Start Free Consultation",
-      "successMessage": "Your request has been received successfully! Our team will call you shortly."
-    },
-    "options": {
-      "nurse": "Home Nursing Services",
-      "escort": "Patient Companionship Services",
-      "elderly": "Elderly Care Services",
-      "birth": "Pregnancy & Birth Support",
-      "physio": "Home Physiotherapy & Manual Therapy",
-      "ambulance": "Vera Air Clinic Ambulance",
-      "corporate1": "VERA Institutions",
-      "corporate2": "VERA Solutions"
-    },
-    "infoTitle": "Why Vera Nurses?",
     "info1": "Licensed Expert Staff",
     "info2": "Fast and Secure Matching",
-    "info3": "100% Satisfaction Oriented"
+    "form": {
+      "firstNameLabel": "First Name",
+      "lastNameLabel": "Last Name",
+      "emailLabel": "Email",
+      "phoneLabel": "Phone Number",
+      "treatmentLabel": "Your Request",
+      "serviceLabel": "Select Service",
+      "messageLabel": "Your Message / Note",
+
+      "firstNamePlaceholder": "Your First Name",
+      "lastNamePlaceholder": "Your Last Name",
+      "emailPlaceholder": "example@email.com",
+      "phonePlaceholder": "05XX XXX XX XX",
+      "treatmentPlaceholder": "Select Treatment Type",
+      "servicePlaceholder": "Please select treatment first",
+      "messagePlaceholder": "You can write any additional notes here...",
+
+      "submitButton": "Contact Us",
+      "sending": "Sending...",
+
+      "successTitle": "Thank You!",
+      "successMessage": "Your request has been received successfully! Our team will call you shortly.",
+      "newRequestButton": "Create New Request",
+
+      "errors": {
+        "missing_fields": "Please fill in all required fields.",
+        "error_occurred": "An error occurred, please try again."
+      }
+    },
+    "treatments": {
+      "homeHealth": "Home Health"
+    },
+    "services": {
+      "chronic": "Chronic disease monitoring",
+      "pain": "Pain control and palliative care",
+      "wound": "Wound care and dressing",
+      "serum": "IV therapy and vascular access",
+      "catheter": "Catheter insertion/removal",
+      "blood": "Blood drawing and lab tracking",
+      "injection": "Injection applications",
+      "vitals": "Monitoring vital signs",
+      "pressureUlcer": "Pressure ulcer prevention positioning",
+      "ptExercises": "Physical therapy exercises",
+      "respiratory": "Respiratory and swallowing exercises",
+      "education": "Patient and family education",
+      "psych": "Psychological counseling",
+      "social": "Social service support",
+      "device": "Medical device tracking",
+      "endOfLife": "End-of-life care",
+      "nutrition": "Nutritional support",
+      "cpap": "CPAP/BiPAP device usage",
+      "oxygen": "Oxygen therapy",
+      "respiratoryDevice": "Respiratory device tracking",
+      "homeMedication": "Home medication administration"
+    }
   },
   "WhyUsSection": {
     "badge": "WHY US?",
@@ -345,5 +376,33 @@
         "f4": "Medical Escort (Flight)"
       }
     }
+  },
+  "ContactPage": {
+    "title": "Contact Us",
+    "subtitle": "You can reach us through any channel for your questions, suggestions, or appointment requests.",
+    "formTitle": "Send a Message",
+    "infoTitle": "Contact Information",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "workingHours": "Working Hours",
+    "workingHoursDesc": "Weekdays 09:00 - 18:00 (24/7 Emergency Support)",
+    "form": {
+      "submit": "Send",
+      "sending": "Sending...",
+      "successTitle": "Message Received",
+      "successDesc": "We will get back to you as soon as possible.",
+      "sendNew": "Send New Message"
+    }
+  },
+  "Legal": {
+    "privacyTitle": "Privacy Policy",
+    "termsTitle": "Terms of Use",
+    "lastUpdated": "Last Updated: January 05, 2024"
+  },
+  "NotFound": {
+    "title": "Page Not Found",
+    "desc": "The page you are looking for might have been moved, deleted, or never existed.",
+    "homeButton": "Return to Home"
   }
 }

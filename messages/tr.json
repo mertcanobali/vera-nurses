@@ -108,7 +108,7 @@
       "lastNameLabel": "Soyad",
       "emailLabel": "E-posta",
       "phoneLabel": "Telefon Numaranız",
-      "treatmentLabel": "Tedavi",
+      "treatmentLabel": "Talebiniz",
       "serviceLabel": "Hizmet Seçiniz",
       "messageLabel": "Mesajınız / Notunuz",
 
@@ -120,7 +120,7 @@
       "servicePlaceholder": "Lütfen önce tedavi seçiniz",
       "messagePlaceholder": "Eklemek istediğiniz notları buraya yazabilirsiniz...",
 
-      "submitButton": "Ücretsiz Danışma Başlat",
+      "submitButton": "İletişime Geç",
       "sending": "Gönderiliyor...",
 
       "successTitle": "Teşekkürler!",
@@ -376,5 +376,38 @@
         "f4": "Medikal Eskort (Uçuş)"
       }
     }
+  },
+  "ContactPage": {
+    "title": "Bize Ulaşın",
+    "subtitle": "Sorularınız, önerileriniz veya randevu talepleriniz için bize dilediğiniz kanaldan ulaşabilirsiniz.",
+    "formTitle": "Mesaj Gönderin",
+    "infoTitle": "İletişim Bilgileri",
+    "address": "Adres",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "workingHours": "Çalışma Saatleri",
+    "workingHoursDesc": "Hafta içi 09:00 - 18:00 (7/24 Acil Destek)",
+    "form": {
+      "name": "Ad Soyad",
+      "email": "E-posta Adresi",
+      "phone": "Telefon Numarası",
+      "subject": "Konu",
+      "message": "Mesajınız",
+      "submit": "Gönder",
+      "sending": "Gönderiliyor...",
+      "successTitle": "Mesajınız Alındı",
+      "successDesc": "En kısa sürede size dönüş yapacağız.",
+      "sendNew": "Yeni Mesaj Gönder"
+    }
+  },
+  "Legal": {
+    "privacyTitle": "Gizlilik Politikası",
+    "termsTitle": "Kullanım Şartları",
+    "lastUpdated": "Son Güncelleme: 05 Ocak 2024"
+  },
+  "NotFound": {
+    "title": "Sayfa Bulunamadı",
+    "desc": "Aradığınız sayfa taşınmış, silinmiş veya hiç var olmamış olabilir.",
+    "homeButton": "Ana Sayfaya Dön"
   }
 }
