@@ -1,0 +1,372 @@
+{
+  "Navigation": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "services": "VERA | Nurses Fonksiyonları",
+    "universe": "VERA Evreni",
+    "contact": "İletişim",
+    "appointment": "Randevu Al",
+    "subMenuServices": {
+      "nurse": "Evde Hemşirelik Hizmetleri",
+      "escort": "Hasta Refakat Hizmetleri",
+      "elderly": "Yaşlı Hasta Bakımı",
+      "birth": "Gebelik ve Doğum Desteği",
+      "physio": "Evde Fizyoterapi ve Manuel Terapi",
+      "ambulance": "Vera Air Clinic Ambulans"
+    },
+    "subMenuCorporate": {
+      "about": "VERA Kurumları",
+      "quality": "VERA Çözümleri"
+    }
+  },
+  "Footer": {
+    "brandDesc": "Profesyonel sağlık ve evde bakım hizmetlerinde güvenilir çözüm ortağınız. 7/24 yanınızdayız.",
+    "quickLinks": "Hızlı Erişim",
+    "services": "Hizmetlerimiz",
+    "contact": "Bize Ulaşın",
+    "rights": "Tüm hakları saklıdır.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "address": "Acarlar Mah. 8. Cad. 45. Sk. Acarkent No:B496, 34800 Beykoz/İstanbul, Türkiye ",
+    "phone": "0 216 888 75 81",
+    "email": "info@veranurses.com"
+  },
+  "Hero": {
+    "title": "Profesyonel Hemşirelik Hizmeti, Evinizin Konforunda",
+    "subtitle": "VERA Nurses, sağlık ihtiyacı olan bireyleri; alanında uzman, sertifikalı, güvenilirliği doğrulanmış hemşireler, hasta bakıcılar ve sağlık profesyonelleri ile buluşturan yeni nesil bir dijital sağlık platformudur.Biz bir hastane veya sağlık kabini değiliz; biz, sizin için anlaşmalı olduğumuz kurumlarda sağlık profesyonelini bulan, süreci yöneten  bir teknoloji kuruluşuyuz.",
+    "cta_primary": "Hizmet Alın",
+    "cta_secondary": "Bizi Tanıyın",
+    "feature1": "Lisanslı Uzmanlar",
+    "feature2": "Yerinde Sağlık",
+    "feature3": "7/24 Destek"
+  },
+  "ServicesSection": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "İhtiyaç duyduğunuz her an, lisanslı ve güvenilir uzmanlarımızla yanınızdayız.",
+    "items": {
+      "nurse": {
+        "title": "Evde Hemşirelik",
+        "desc": "Enjeksiyon, pansuman, serum takma gibi tıbbi işlemleriniz uzman hemşirelerimiz tarafından evinizde yapılır."
+      },
+      "care": {
+        "title": "Hasta Bakımı & Refakat",
+        "desc": "Hastanede veya evde, hastanızın tüm öz bakım ve takip süreçlerinde profesyonel destek sağlıyoruz."
+      },
+      "elderly": {
+        "title": "Yaşlı Hasta Bakımı",
+        "desc": "Yaşlı bireylerin günlük yaşam aktivitelerine destek oluyor, konforlu bir yaşlılık süreci sunuyoruz."
+      },
+      "baby": {
+        "title": "Anne & Bebek Bakımı",
+        "desc": "Doğum sonrası süreçte anne ve bebeğin bakımı, emzirme eğitimi ve takibi konusunda yanınızdayız."
+      },
+      "physio": {
+        "title": "Evde Fizyoterapi",
+        "desc": "Fizik tedavi süreçlerinizi evinizin konforunda, uzman fizyoterapistler eşliğinde sürdürüyoruz."
+      },
+      "ambulance": {
+        "title": "Vera Air Clinic",
+        "desc": "Acil durumlar veya nakil işlemleri için kara ve hava ambulans hizmetlerimizle 7/24 hizmetinizdeyiz."
+      }
+    },
+    "cta": "Tüm Hizmetleri Gör",
+    "moreInfo": "Detaylı Bilgi"
+  },
+  "ProcessSection": {
+    "title": "Nasıl Çalışır?",
+    "subtitle": "Sağlık hizmetine ulaşmak hiç bu kadar kolay ve güvenli olmamıştı.",
+    "steps": {
+      "step1": {
+        "title": "Talep Oluşturun",
+        "desc": "Web sitemizden  ihtiyacınız olan hizmeti seçip kolayca talep oluşturun."
+      },
+      "step2": {
+        "title": "Uzman Eşleşmesi",
+        "desc": "Oluşturduğunuz talep kriterlerinize en uygun, lisanslı ve onaylı sağlık profesyonelini sizinle buluştururz."
+      },
+      "step3": {
+        "title": "Güvenli Hizmet",
+        "desc": "Uzmanımız belirlenen saatte evinize gelir ve protokoller çerçevesinde sağlık hizmetini sunar."
+      }
+    }
+  },
+  "AppointmentSection": {
+    "title": "Sağlığınız İçin İlk Adımı Atın",
+    "description": "Formu doldurun, ihtiyacınız olan hizmeti seçin. Uzman ekiplerimiz size en kısa sürede dönüş yapsın.",
+    "info1": "Lisanslı Uzman Kadro",
+    "info2": "Hızlı ve Güvenli Eşleşme",
+    "form": {
+      "firstNameLabel": "Ad",
+      "lastNameLabel": "Soyad",
+      "emailLabel": "E-posta",
+      "phoneLabel": "Telefon Numaranız",
+      "treatmentLabel": "Tedavi",
+      "serviceLabel": "Hizmet Seçiniz",
+      "messageLabel": "Mesajınız / Notunuz",
+
+      "firstNamePlaceholder": "Adınız",
+      "lastNamePlaceholder": "Soyadınız",
+      "emailPlaceholder": "ornek@email.com",
+      "phonePlaceholder": "05XX XXX XX XX",
+      "treatmentPlaceholder": "Tedavi Türü Seçiniz",
+      "servicePlaceholder": "Lütfen önce tedavi seçiniz",
+      "messagePlaceholder": "Eklemek istediğiniz notları buraya yazabilirsiniz...",
+
+      "submitButton": "Ücretsiz Danışma Başlat",
+      "sending": "Gönderiliyor...",
+
+      "successTitle": "Teşekkürler!",
+      "successMessage": "Talebiniz başarıyla alındı! Ekibimiz en kısa sürede sizi arayacaktır.",
+      "newRequestButton": "Yeni Talep Oluştur",
+
+      "errors": {
+        "missing_fields": "Lütfen zorunlu alanları doldurunuz.",
+        "error_occurred": "Bir hata oluştu, lütfen tekrar deneyin."
+      }
+    },
+    "treatments": {
+      "homeHealth": "Evde Sağlık"
+    },
+    "services": {
+      "chronic": "Kronik hastalık takibi",
+      "pain": "Ağrı kontrolü ve palyatif bakım",
+      "wound": "Yara bakımı ve pansuman",
+      "serum": "Serum ve damar yolu uygulamaları",
+      "catheter": "Sonda takma/çıkarma",
+      "blood": "Kan alma ve laboratuvar takibi",
+      "injection": "Enjeksiyon uygulamaları",
+      "vitals": "Hayati bulguların izlenmesi",
+      "pressureUlcer": "Bası yarası önleyici pozisyonlama",
+      "ptExercises": "Fizik tedavi egzersizleri",
+      "respiratory": "Solunum ve yutma egzersizleri",
+      "education": "Hasta ve aile eğitimi",
+      "psych": "Psikolojik danışmanlık",
+      "social": "Sosyal hizmet desteği",
+      "device": "Medikal cihaz takibi",
+      "endOfLife": "Hayat sonu bakımı",
+      "nutrition": "Beslenme desteği",
+      "cpap": "CPAP/BiPAP cihaz kullanımı",
+      "oxygen": "Oksijen tedavisi",
+      "respiratoryDevice": "Solunum cihazı takibi",
+      "homeMedication": "Evde ilaç uygulaması"
+    }
+  },
+  "WhyUsSection": {
+    "badge": "NEDEN BİZ?",
+    "items": {
+      "item1": {
+        "title": "Kurumsal Uzman Personel",
+        "desc": "Vera Nurses aracılığıyla 'Evde Bakım' hizmeti veren profesyonel kuruluşlardan, kaliteli hizmet alabilirsiniz. Sistemde mevcut hemşireler ve bakıcılar kurumsal kalite güvencesindedir."
+      },
+      "item2": {
+        "title": "Kişiselleştirilmiş Bakım",
+        "desc": "Hastaların ihtiyaçları birbirinden farklıdır. Özel durumlarına göre hekimler ve uzman personel tarafından kişiselleştirilmiş bakım planları ile en iyi hizmeti almanızı sağlarız."
+      },
+      "item3": {
+        "title": "7/24 Erişim ve Destek",
+        "desc": "Acil bir durumda ya da rutin bakım ihtiyaçlarında, uygulamamız sayesinde 7/24 sağlık hizmetine kesintisiz erişim sağlayabilirsiniz."
+      },
+      "item4": {
+        "title": "Güvenilirlik ve Şeffaflık",
+        "desc": "Hizmet verdiğimiz tüm süreçlerde şeffaf bir yaklaşım benimseyerek, ailelerin akıllarındaki tüm soruları net bir şekilde yanıtlıyoruz."
+      }
+    }
+  },
+  "AboutSection": {
+    "title": "Dijital Sağlık Hizmetlerinde Öncü Yaklaşım",
+    "intro": "VERA Nurses, VERA Doctors ile birlikte VERA Premium Care Sağlık Hizmetleri A.Ş.'nin bir üyesidir. Uzaktan ve dijital sağlık hizmetlerinde öncü, uzman bir kadroyla; etkin, verimli ve güven esaslı sağlık hizmetlerine her zaman ulaşmanızı sağlıyoruz.",
+    "mission": "Sanal hastanecilik ve uzaktan sağlık hizmeti ile hastanelerin kalabalık hasta yükünü azaltıyor, hastalarımıza zaman kazandırıyoruz.",
+    "stat1": "Daha Az Hastane Yükü",
+    "stat2": "Hasta Zaman Kazanımı",
+    "badgeText": "Hizmetlerimiz VERA Nurses Kalite ve Standartları güvencesinde sunulmakta ve denetlenmektedir.",
+    "badgeTitle": "VERA Kalite Güvencesi"
+  },
+  "AboutPage": {
+    "Hero": {
+      "badge": "YENİ NESİL SAĞLIK DENEYİMİ",
+      "title": "Sağlığın Geleceğini, Evinizin Konforuyla Buluşturuyoruz.",
+      "subtitle": "VERA Nurses, tıbbi mükemmeliyeti şefkatli bakımla birleştiren, global standartlarda bir sağlık ekosistemidir."
+    },
+    "Story": {
+      "badge": "HİKAYEMİZ & VİZYONUMUZ",
+      "title": "Mükemmeliyet Bir Tesadüf Değil, Bir Tercihtir.",
+      "p1": "Yola çıkarken tek bir amacımız vardı: Sağlık hizmetini soğuk hastane koridorlarından çıkarıp, insanın en huzurlu olduğu yere; evine taşımak. Ancak bunu yaparken hastane standartlarından asla ödün vermemek.",
+      "p2": "Bugün VERA Premium Care çatısı altında, teknolojinin gücünü insani dokunuşla harmanlıyoruz. Her hastamız için sadece bir sağlık sağlayıcısı değil, ailenin güvenilen bir üyesi, iyileşme yolculuğunun en sadık yol arkadaşıyız.",
+      "quote": "Bizim için sağlık, sadece iyileşmek değil; süreç boyunca güvende ve değerli hissetmektir."
+    },
+    "Stats": {
+      "s1": "Yıllık Tecrübe",
+      "s2": "Mutlu Hasta",
+      "s3": "Uzman Kadro",
+      "s4": "Hizmet Bölgesi"
+    },
+    "Values": {
+      "title": "Bizi Biz Yapan Değerler",
+      "subtitle": "Kalite standartlarımızın temelini oluşturan prensiplerimiz.",
+      "items": {
+        "v1": {
+          "title": "Kusursuz Güven",
+          "desc": "Her adımda şeffaflık, her işlemde uluslararası akreditasyon standartları."
+        },
+        "v2": {
+          "title": "Empati Odaklılık",
+          "desc": "Hastayı bir vaka olarak değil, duyguları ve ihtiyaçları olan bir birey olarak görmek."
+        },
+        "v3": {
+          "title": "İnovatif Teknoloji",
+          "desc": "En güncel sağlık teknolojileri ve dijital takip sistemleri ile entegre bakım."
+        },
+        "v4": {
+          "title": "7/24 Ulaşılabilirlik",
+          "desc": "Zaman ve mekan fark etmeksizin, ihtiyacınız olduğu her an yanınızdayız."
+        }
+      }
+    }
+  },
+  "InstitutionsPage": {
+    "heroTitle": "VERA Evreni",
+    "heroSubtitle": "Kurumsal Yapımız ve İştiraklerimiz",
+    "title": "VERA Kurumsal Yapı",
+    "subtitle": "Global sağlık ve teknoloji ağımızın yönetim merkezleri ve iştirakleri.",
+    "items": {
+      "c1": { "title": "VERA Health Group B.V", "link": "verahealthgroup.com" },
+      "c2": {
+        "title": "VERA Health And Education B.V",
+        "link": "verahealthandeducation.com"
+      },
+      "c3": {
+        "title": "VERA Premium Care Sağlık Hizmetleri A.Ş",
+        "link": "verapremiumcare.com"
+      },
+      "c4": { "title": "PsiTechLab B.V", "link": "psitechlab.com" }
+    },
+    "ctaText": "Web Sitesine Git"
+  },
+  "SolutionsPage": {
+    "heroTitle": "VERA Çözümleri",
+    "heroSubtitle": "Global Standartlarda Sağlık Hizmetleri",
+    "title": "Çözümlerimiz",
+    "subtitle": "Sağlığın her alanında uzmanlaşmış markalarımızla bütüncül hizmet sunuyoruz.",
+    "items": {
+      "doctors": {
+        "title": "VERA Doctors",
+        "desc": "Uzman medikal kadro ve özel klinik hizmetleri alanında uzman doktorlarımızla sunduğumuz kapsamlı çözümler."
+      },
+      "nurses": {
+        "title": "VERA Nurses",
+        "desc": "Profesyonel hemşirelik ve hasta bakım hizmetleri. Deneyimli kadromuzla hastalarımıza sağladığımız kaliteli bakım."
+      },
+      "air": {
+        "title": "VERA Air Clinic",
+        "desc": "Hava ambulansı ve medikal tahliye hizmetleri. Acil durumlarda hızlı ve güvenilir hava çözümleri."
+      },
+      "intergen": {
+        "title": "VERA | INTERGEN",
+        "desc": "Genetik test ve danışmanlık hizmetleri. Kişiselleştirilmiş sağlık çözümleri için genetik testler."
+      },
+      "cellular": {
+        "title": "VERA Cellular Treatments",
+        "desc": "Kök hücre tedavileri ve rejeneratif tıp. Sağlıkta yenilikçi ve rejeneratif çözümlerimiz."
+      },
+      "labs": {
+        "title": "VERA Lab Services",
+        "desc": "Kapsamlı laboratuvar ve tanı hizmetleri. Doğru ve hızlı teşhis için modern laboratuvar altyapısı."
+      },
+      "master": {
+        "title": "VERA MasterClass",
+        "desc": "Uzmanlardan sağlık alanında eğitim deneyimi. Sağlık profesyonellerine yönelik eğitim fırsatları."
+      },
+      "avicerna": {
+        "title": "AviceRNA",
+        "desc": "İleri tıbbi araştırma ve geliştirme merkezi. Tıbbi araştırma alanındaki yenilikçi projeler."
+      },
+      "obesity": {
+        "title": "VERA Obesity",
+        "desc": "Profesyonel obezite tedavi hizmetleri. Obeziteyle mücadelede kapsamlı tedavi ve destek."
+      },
+      "wellbeing": {
+        "title": "VERA Wellbeing",
+        "desc": "Sağlıklı yaşam için yenilikçi çözümler. Yaşam kalitesini artırmaya yönelik hizmetlerimiz."
+      }
+    },
+    "ctaText": "Web Sitesine Git"
+  },
+  "ServiceGlobal": {
+    "badge": "VERA NURSES HİZMETLERİ",
+    "breadcrumbHome": "Ana Sayfa",
+    "breadcrumbServices": "Hizmetler",
+    "featuresTitle": "Hizmet Kapsamı",
+    "supportBox": {
+      "title": "7/24 Profesyonel Destek",
+      "desc": "Uzman kadromuzla her an yanınızdayız."
+    }
+  },
+  "ServicePages": {
+    "nurse": {
+      "title": "Evde Hemşirelik Hizmetleri",
+      "subtitle": "Hastaneye gitmenize gerek kalmadan, profesyonel hemşirelerimizle tüm tıbbi işlemleriniz evinizin konforunda.",
+      "description": "Enjeksiyon, serum takma, pansuman, sonda takma/çıkarma, kan alma ve yara bakımı gibi tüm hemşirelik hizmetlerini, Sağlık Bakanlığı onaylı ve sertifikalı uzman kadromuzla evinizde sunuyoruz. Hijyenik koşullarda ve doktor direktiflerine uygun olarak gerçekleştirilen işlemlerimizle iyileşme sürecinizi hızlandırıyoruz.",
+      "features": {
+        "f1": "Enjeksiyon ve Serum Uygulamaları",
+        "f2": "Yara Bakımı ve Pansuman",
+        "f3": "Sonda ve Kateter İşlemleri",
+        "f4": "Kan Alma ve Tahlil Hizmetleri"
+      }
+    },
+    "escort": {
+      "title": "Hasta Refakat Hizmetleri",
+      "subtitle": "Sevdikleriniz emin ellerde. Hastanede veya evde profesyonel refakat desteği.",
+      "description": "Hastanızın hastane süreçlerinde veya evdeki bakımında, ona eşlik edecek, öz bakımını yapacak ve ilaç takibini sağlayacak eğitimli refakatçilerimizle yanınızdayız. Hem kısa süreli (saatlik) hem de uzun süreli (yatılı) refakat hizmetlerimizle ailenizin üzerindeki yükü hafifletiyoruz.",
+      "features": {
+        "f1": "Hastane Refakati",
+        "f2": "Evde Yatılı Refakat",
+        "f3": "Kişisel Bakım ve Hijyen",
+        "f4": "İlaç Takibi ve Raporlama"
+      }
+    },
+    "elderly": {
+      "title": "Yaşlı Hasta Bakımı",
+      "subtitle": "Büyüklerimize hak ettikleri saygı ve özenle, konforlu bir yaşlılık süreci sunuyoruz.",
+      "description": "Geriatri alanında deneyimli bakım personelimiz, yaşlı bireylerin günlük yaşam aktivitelerine destek olurken, onların sosyal ve psikolojik ihtiyaçlarını da gözetir. Alzheimer, Demans veya Parkinson gibi özel durumları olan hastalarımız için özel eğitimli personelimiz mevcuttur.",
+      "features": {
+        "f1": "Günlük Yaşam Desteği",
+        "f2": "Alzheimer ve Demans Bakımı",
+        "f3": "Yatak Yarası Önleme",
+        "f4": "Fiziksel Aktivite Desteği"
+      }
+    },
+    "birth": {
+      "title": "Gebelik ve Doğum Desteği",
+      "subtitle": "Hayatın en mucizevi anlarında, anne ve bebeğin yanındayız.",
+      "description": "Doğum öncesi hazırlık eğitimlerinden, doğum sonrası emzirme danışmanlığına ve bebek bakımına kadar tüm süreçte profesyonel ebe ve hemşirelerimizle destek oluyoruz. Annenin toparlanma sürecini hızlandırırken, bebeğin hayata sağlıklı bir başlangıç yapmasını sağlıyoruz.",
+      "features": {
+        "f1": "Emzirme Danışmanlığı",
+        "f2": "Yenidoğan Bebek Bakımı",
+        "f3": "Lohusa Bakımı ve Eğitimi",
+        "f4": "Bebek Banyosu ve Masajı"
+      }
+    },
+    "physio": {
+      "title": "Evde Fizyoterapi",
+      "subtitle": "Hareket özgürlüğünüzü geri kazanın. Uzman fizyoterapistlerle evde tedavi.",
+      "description": "Ortopedik ameliyatlar sonrası rehabilitasyon, nörolojik hastalıklar (inme, felç) veya yaşlılığa bağlı hareket kısıtlılıklarında, uzman fizyoterapistlerimiz kişiye özel tedavi programlarıyla evinize gelir. Modern ekipmanlar ve manuel terapi yöntemleriyle iyileşmenizi destekliyoruz.",
+      "features": {
+        "f1": "Ortopedik Rehabilitasyon",
+        "f2": "Nörolojik Fizyoterapi",
+        "f3": "Manuel Terapi",
+        "f4": "Geriatrik Fizyoterapi"
+      }
+    },
+    "ambulance": {
+      "title": "Vera Air Clinic & Ambulans",
+      "subtitle": "Zamanla yarışıyoruz. Kara ve hava ambulans hizmetlerimizle dünyanın her yerindeyiz.",
+      "description": "Acil durum nakillerinden, şehirlerarası veya uluslararası hasta transferlerine kadar tam donanımlı kara ve hava ambulanslarımızla hizmetinizdeyiz. Yoğun bakım donanımlı araçlarımız ve uzman paramedik ekiplerimizle güvenli transfer sağlıyoruz.",
+      "features": {
+        "f1": "Acil Yardım Ambulansı",
+        "f2": "Uçak Ambulans Kiralama",
+        "f3": "Şehirlerarası Nakil",
+        "f4": "Medikal Eskort (Uçuş)"
+      }
+    }
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "VERA | Nurses Functions",
+    "universe": "VERA Universe",
+    "contact": "Contact",
+    "appointment": "Book Appointment",
+    "subMenuServices": {
+      "nurse": "Home Nursing Services",
+      "escort": "Patient Companionship Services",
+      "elderly": "Elderly Care Services",
+      "birth": "Pregnancy & Birth Support",
+      "physio": "Home Physiotherapy & Manual Therapy",
+      "ambulance": "Vera Air Clinic Ambulance"
+    },
+    "subMenuCorporate": {
+      "about": "VERA Institutions",
+      "quality": "VERA Solutions"
+    }
+  },
+  "Footer": {
+    "brandDesc": "Your trusted solution partner in professional health and home care services. We are by your side 24/7.",
+    "quickLinks": "Quick Links",
+    "services": "Our Services",
+    "contact": "Contact Us",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "address": "Acarlar Mah. 8. Cad. 45. Sk. Acarkent No:B496, 34800 Beykoz/Istanbul, Türkiye",
+    "phone": "0 216 888 75 81",
+    "email": "info@veranurses.com"
+  },
+  "Hero": {
+    "title": "Professional Nursing Service, in the Comfort of Your Home",
+    "subtitle": "VERA Nurses is a next-generation digital health platform that connects individuals in need of care with expert, certified, and vetted nurses, caregivers, and health professionals. We are not a hospital or a clinic; we are a technology organization that manages the process and finds the right health professional for you through our contracted institutions.",
+    "cta_primary": "Get Service",
+    "cta_secondary": "Get to Know Us",
+    "feature1": "Licensed Experts",
+    "feature2": "On-Site Health",
+    "feature3": "24/7 Support"
+  },
+  "ServicesSection": {
+    "title": "Our Services",
+    "subtitle": "We are by your side whenever you need us, with our licensed and trusted experts.",
+    "items": {
+      "nurse": {
+        "title": "Home Nursing",
+        "desc": "Medical procedures such as injections, wound dressing, and IV therapy are performed by our expert nurses in your home."
+      },
+      "care": {
+        "title": "Patient Care & Companionship",
+        "desc": "We provide professional support for all self-care and monitoring processes for your patient, whether at the hospital or at home."
+      },
+      "elderly": {
+        "title": "Elderly Care",
+        "desc": "We support the daily living activities of elderly individuals, offering a comfortable aging process."
+      },
+      "baby": {
+        "title": "Mother & Baby Care",
+        "desc": "We are with you during the postpartum period for mother and baby care, breastfeeding training, and monitoring."
+      },
+      "physio": {
+        "title": "Home Physiotherapy",
+        "desc": "We continue your physical therapy processes in the comfort of your home, accompanied by expert physiotherapists."
+      },
+      "ambulance": {
+        "title": "Vera Air Clinic",
+        "desc": "We are at your service 24/7 with our ground and air ambulance services for emergencies or transfer operations."
+      }
+    },
+    "cta": "View All Services",
+    "moreInfo": "Detailed Info"
+  },
+  "ProcessSection": {
+    "title": "How It Works?",
+    "subtitle": "Accessing healthcare has never been this easy and secure.",
+    "steps": {
+      "step1": {
+        "title": "Create a Request",
+        "desc": "Select the service you need from our website and easily create a request."
+      },
+      "step2": {
+        "title": "Expert Matching",
+        "desc": "We match you with the most suitable, licensed, and approved health professional based on your request criteria."
+      },
+      "step3": {
+        "title": "Secure Service",
+        "desc": "Our expert arrives at your home at the scheduled time and provides health services within the framework of medical protocols."
+      }
+    }
+  },
+  "AppointmentSection": {
+    "title": "Take the First Step for Your Health",
+    "description": "Fill out the form and select the service you need. Our expert teams will get back to you as soon as possible.",
+    "form": {
+      "nameLabel": "Full Name",
+      "namePlaceholder": "Ex: John Doe",
+      "phoneLabel": "Phone Number",
+      "phonePlaceholder": "05XX XXX XX XX",
+      "serviceLabel": "Service Needed",
+      "servicePlaceholder": "Select Service...",
+      "messageLabel": "Your Message / Note",
+      "messagePlaceholder": "You can write any additional notes here...",
+      "submitButton": "Start Free Consultation",
+      "successMessage": "Your request has been received successfully! Our team will call you shortly."
+    },
+    "options": {
+      "nurse": "Home Nursing Services",
+      "escort": "Patient Companionship Services",
+      "elderly": "Elderly Care Services",
+      "birth": "Pregnancy & Birth Support",
+      "physio": "Home Physiotherapy & Manual Therapy",
+      "ambulance": "Vera Air Clinic Ambulance",
+      "corporate1": "VERA Institutions",
+      "corporate2": "VERA Solutions"
+    },
+    "infoTitle": "Why Vera Nurses?",
+    "info1": "Licensed Expert Staff",
+    "info2": "Fast and Secure Matching",
+    "info3": "100% Satisfaction Oriented"
+  },
+  "WhyUsSection": {
+    "badge": "WHY US?",
+    "items": {
+      "item1": {
+        "title": "Corporate Expert Staff",
+        "desc": "Through Vera Nurses, you receive high-quality service from professional organizations providing 'Home Care' services. The nurses and caregivers in our system are under corporate quality assurance."
+      },
+      "item2": {
+        "title": "Personalized Care",
+        "desc": "Every patient's needs are different. We ensure you receive the best service with personalized care plans created by physicians and expert staff according to specific conditions."
+      },
+      "item3": {
+        "title": "24/7 Access and Support",
+        "desc": "Whether for an emergency or routine care needs, you can access uninterrupted health services 24/7 thanks to our application."
+      },
+      "item4": {
+        "title": "Reliability and Transparency",
+        "desc": "We adopt a transparent approach in all our service processes, clearly answering all questions families may have."
+      }
+    }
+  },
+  "AboutSection": {
+    "title": "A Pioneering Approach in Digital Health Services",
+    "intro": "VERA Nurses, together with VERA Doctors, is a member of VERA Premium Care Health Services Inc. We ensure you always have access to effective, efficient, and trust-based health services with an expert staff pioneering in remote and digital health services.",
+    "mission": "With virtual hospital concepts and remote health services, we reduce the crowded patient load of hospitals and save time for our patients.",
+    "stat1": "Reduced Hospital Load",
+    "stat2": "Time Savings for Patients",
+    "badgeText": "Our services are provided and audited under the assurance of VERA Nurses Quality and Standards.",
+    "badgeTitle": "VERA Quality Assurance"
+  },
+  "AboutPage": {
+    "Hero": {
+      "badge": "NEXT GENERATION HEALTHCARE EXPERIENCE",
+      "title": "Bringing the Future of Health to the Comfort of Your Home.",
+      "subtitle": "VERA Nurses is a world-class health ecosystem that combines medical excellence with compassionate care."
+    },
+    "Story": {
+      "badge": "OUR STORY & VISION",
+      "title": "Excellence Is Not a Coincidence, It Is a Choice.",
+      "p1": "When we set out, we had a single goal: To take healthcare out of cold hospital corridors and bring it to the place where people feel most at peace—their home. However, while doing so, never compromising on hospital standards.",
+      "p2": "Today, under the umbrella of VERA Premium Care, we blend the power of technology with the human touch. For every patient, we are not just a healthcare provider, but a trusted member of the family and the most loyal companion on the journey to recovery.",
+      "quote": "For us, health is not just about getting better; it is about feeling safe and valued throughout the process."
+    },
+    "Stats": {
+      "s1": "Years of Experience",
+      "s2": "Happy Patients",
+      "s3": "Expert Staff",
+      "s4": "Service Areas"
+    },
+    "Values": {
+      "title": "The Values That Define Us",
+      "subtitle": "The principles that form the foundation of our quality standards.",
+      "items": {
+        "v1": {
+          "title": "Unwavering Trust",
+          "desc": "Transparency at every step, international accreditation standards in every procedure."
+        },
+        "v2": {
+          "title": "Empathy-Driven Approach",
+          "desc": "Seeing the patient not as a case, but as an individual with emotions and needs."
+        },
+        "v3": {
+          "title": "Innovative Technology",
+          "desc": "Integrated care with the latest health technologies and digital monitoring systems."
+        },
+        "v4": {
+          "title": "24/7 Accessibility",
+          "desc": "Regardless of time and place, we are by your side whenever you need us."
+        }
+      }
+    }
+  },
+  "InstitutionsPage": {
+    "heroTitle": "VERA Universe",
+    "heroSubtitle": "Our Corporate Structure and Subsidiaries",
+    "title": "VERA Corporate Structure",
+    "subtitle": "Management centers and subsidiaries of our global health and technology network.",
+    "items": {
+      "c1": { "title": "VERA Health Group B.V", "link": "verahealthgroup.com" },
+      "c2": {
+        "title": "VERA Health And Education B.V",
+        "link": "verahealthandeducation.com"
+      },
+      "c3": {
+        "title": "VERA Premium Care Health Services Inc.",
+        "link": "verapremiumcare.com"
+      },
+      "c4": { "title": "PsiTechLab B.V", "link": "psitechlab.com" }
+    },
+    "ctaText": "Visit Website"
+  },
+  "SolutionsPage": {
+    "heroTitle": "VERA Solutions",
+    "heroSubtitle": "Healthcare Services at Global Standards",
+    "title": "Our Solutions",
+    "subtitle": "We offer holistic services with our brands specialized in every field of health.",
+    "items": {
+      "doctors": {
+        "title": "VERA Doctors",
+        "desc": "Comprehensive solutions offered by our expert medical staff and doctors specializing in private clinical services."
+      },
+      "nurses": {
+        "title": "VERA Nurses",
+        "desc": "Professional nursing and patient care services. High-quality care provided to our patients by our experienced staff."
+      },
+      "air": {
+        "title": "VERA Air Clinic",
+        "desc": "Air ambulance and medical evacuation services. Fast and reliable aerial solutions for emergencies."
+      },
+      "intergen": {
+        "title": "VERA | INTERGEN",
+        "desc": "Genetic testing and counseling services. Genetic tests for personalized health solutions."
+      },
+      "cellular": {
+        "title": "VERA Cellular Treatments",
+        "desc": "Stem cell treatments and regenerative medicine. Our innovative and regenerative solutions in healthcare."
+      },
+      "labs": {
+        "title": "VERA Lab Services",
+        "desc": "Comprehensive laboratory and diagnostic services. Modern laboratory infrastructure for accurate and rapid diagnosis."
+      },
+      "master": {
+        "title": "VERA MasterClass",
+        "desc": "Educational experience in the health field from experts. Training opportunities for healthcare professionals."
+      },
+      "avicerna": {
+        "title": "AviceRNA",
+        "desc": "Advanced medical research and development center. Innovative projects in the field of medical research."
+      },
+      "obesity": {
+        "title": "VERA Obesity",
+        "desc": "Professional obesity treatment services. Comprehensive treatment and support in the fight against obesity."
+      },
+      "wellbeing": {
+        "title": "VERA Wellbeing",
+        "desc": "Innovative solutions for healthy living. Our services aimed at increasing quality of life."
+      }
+    },
+    "ctaText": "Visit Website"
+  },
+  "ServiceGlobal": {
+    "badge": "VERA NURSES SERVICES",
+    "breadcrumbHome": "Home",
+    "breadcrumbServices": "Services",
+    "featuresTitle": "Scope of Service",
+    "supportBox": {
+      "title": "24/7 Professional Support",
+      "desc": "We are by your side at any moment with our expert staff."
+    }
+  },
+  "ServicePages": {
+    "nurse": {
+      "title": "Home Nursing Services",
+      "subtitle": "All your medical procedures are performed in the comfort of your home by our professional nurses, without the need to go to the hospital.",
+      "description": "We offer all nursing services such as injections, IV therapy, wound dressing, catheter insertion/removal, and blood drawing at your home with our expert staff certified and approved by the Ministry of Health. We accelerate your recovery process with procedures performed under hygienic conditions and in accordance with doctor's directives.",
+      "features": {
+        "f1": "Injection and IV Applications",
+        "f2": "Wound Care and Dressing",
+        "f3": "Catheter and Sonde Procedures",
+        "f4": "Blood Drawing and Lab Services"
+      }
+    },
+    "escort": {
+      "title": "Patient Companionship Services",
+      "subtitle": "Your loved ones are in safe hands. Professional companionship support at the hospital or at home.",
+      "description": "We are by your side with our trained companions who will accompany your patient, perform self-care tasks, and manage medication tracking during hospital processes or home care. We alleviate the burden on your family with both short-term (hourly) and long-term (live-in) companionship services.",
+      "features": {
+        "f1": "Hospital Companionship",
+        "f2": "Live-in Home Support",
+        "f3": "Personal Care and Hygiene",
+        "f4": "Medication Tracking and Reporting"
+      }
+    },
+    "elderly": {
+      "title": "Elderly Care",
+      "subtitle": "We offer a comfortable aging process to our elders with the respect and care they deserve.",
+      "description": "Our care staff, experienced in geriatrics, support elderly individuals in their daily living activities while also attending to their social and psychological needs. We have specially trained personnel for patients with specific conditions such as Alzheimer's, Dementia, or Parkinson's.",
+      "features": {
+        "f1": "Daily Living Support",
+        "f2": "Alzheimer's and Dementia Care",
+        "f3": "Pressure Ulcer Prevention",
+        "f4": "Physical Activity Support"
+      }
+    },
+    "birth": {
+      "title": "Pregnancy & Birth Support",
+      "subtitle": "We are with the mother and baby during the most miraculous moments of life.",
+      "description": "We provide support with our professional midwives and nurses throughout the entire process, from prenatal preparation training to postpartum lactation consulting and baby care. While accelerating the mother's recovery process, we ensure the baby gets a healthy start to life.",
+      "features": {
+        "f1": "Lactation Consulting",
+        "f2": "Newborn Baby Care",
+        "f3": "Postpartum Care and Education",
+        "f4": "Baby Bath and Massage"
+      }
+    },
+    "physio": {
+      "title": "Home Physiotherapy",
+      "subtitle": "Regain your freedom of movement. Treatment at home with expert physiotherapists.",
+      "description": "For rehabilitation after orthopedic surgeries, neurological diseases (stroke, paralysis), or age-related mobility restrictions, our expert physiotherapists come to your home with personalized treatment programs. We support your recovery with modern equipment and manual therapy methods.",
+      "features": {
+        "f1": "Orthopedic Rehabilitation",
+        "f2": "Neurological Physiotherapy",
+        "f3": "Manual Therapy",
+        "f4": "Geriatric Physiotherapy"
+      }
+    },
+    "ambulance": {
+      "title": "Vera Air Clinic & Ambulance",
+      "subtitle": "We are racing against time. We are all over the world with our ground and air ambulance services.",
+      "description": "We are at your service with our fully equipped ground and air ambulances, from emergency transport to intercity or international patient transfers. We ensure safe transfer with our intensive care equipped vehicles and expert paramedic teams.",
+      "features": {
+        "f1": "Emergency Aid Ambulance",
+        "f2": "Air Ambulance Charter",
+        "f3": "Intercity Transfer",
+        "f4": "Medical Escort (Flight)"
+      }
+    }
+  }
+}
