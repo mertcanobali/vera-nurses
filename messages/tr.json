@@ -103,6 +103,7 @@
     "description": "Formu doldurun, ihtiyacınız olan hizmeti seçin. Uzman ekiplerimiz size en kısa sürede dönüş yapsın.",
     "info1": "Lisanslı Uzman Kadro",
     "info2": "Hızlı ve Güvenli Eşleşme",
+    "contactCta": "İletişime Geçin",
     "form": {
       "firstNameLabel": "Ad",
       "lastNameLabel": "Soyad",
